@@ -1,0 +1,67 @@
+Data Information
+
+Data Shape: 196431 rows and 18 columns
+
+Column Names:
+- Station Name
+- Measurement Timestamp
+- Air Temperature
+- Wet Bulb Temperature
+- Humidity
+- Rain Intensity
+- Interval Rain
+- Total Rain
+- Precipitation Type
+- Wind Direction
+- Wind Speed
+- Maximum Wind Speed
+- Barometric Pressure
+- Solar Radiation
+- Heading
+- Battery Life
+- Measurement Timestamp Label
+- Measurement ID
+
+Data Types
+- Station Name: object
+- Measurement Timestamp: datetime64[ns]
+- Air Temperature: float64
+- Wet Bulb Temperature: float64
+- Humidity: int64
+- Rain Intensity: float64
+- Interval Rain: float64
+- Total Rain: float64
+- Precipitation Type: float64
+- Wind Direction: int64
+- Wind Speed: float64
+- Maximum Wind Speed: float64
+- Barometric Pressure: float64
+- Solar Radiation: int64
+- Heading: float64
+- Battery Life: float64
+- Measurement Timestamp Label: object
+- Measurement ID: object
+
+Date Range:
+- Start: 2015-04-25 09:00:00
+- End: 2025-12-05 21:00:00
+
+Missing Values:
+- Station Name: 0 missing values
+- Measurement Timestamp: 0 missing values
+- Air Temperature: 75 missing values
+- Wet Bulb Temperature: 76006 missing values
+- Humidity: 0 missing values
+- Rain Intensity: 76006 missing values
+- Interval Rain: 0 missing values
+- Total Rain: 76006 missing values
+- Precipitation Type: 76006 missing values
+- Wind Direction: 0 missing values
+- Wind Speed: 0 missing values
+- Maximum Wind Speed: 0 missing values
+- Barometric Pressure: 146 missing values
+- Solar Radiation: 0 missing values
+- Heading: 76006 missing values
+- Battery Life: 0 missing values
+- Measurement Timestamp Label: 0 missing values
+- Measurement ID: 0 missing values
