@@ -1,3 +1,11 @@
+Air Tempearature
+Humidity
+Wind Speed
+Maximum Wind Speed
+Rain Intensity
+Total Rain
+Barometric Pressure
+Solar Radiation
 Air Temp Difference
 Humidity Change
 Wind Speed Change
