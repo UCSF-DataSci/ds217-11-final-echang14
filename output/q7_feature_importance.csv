@@ -1,35 +1,35 @@
 feature,importance
-month,0.627294
-Barometric Pressure,0.042885203
-Humidity_x_Pressure,0.030438194
-Pressure_x_Solar,0.029153911
-Total Rain,0.0269933
-Station Name_Oak Street Weather Station,0.025387336
-Solar Radiation,0.024846748
-hour,0.024009075
-Wind Direction,0.023608223
-Precipitation Type_70.0,0.020608082
-Solar_to_Pressure,0.018770488
-year,0.017673653
-Wind Speed,0.015246263
-WindSpeed_to_MaxWind,0.013113365
-Heading,0.011464243
-Battery Life,0.011206998
-Humidity,0.0059752353
-day_of_week,0.0051375343
-day_name_Wednesday,0.0045354716
-Maximum Wind Speed,0.0041484646
-Humidity Change,0.0036749404
-Wind Speed Change,0.0033334424
-day_name_Tuesday,0.002978043
-day_name_Saturday,0.0021750026
-day_name_Thursday,0.0018235169
-Interval Rain,0.001495979
-WindSpeed_x_Rain,0.00094559666
-RainRate_to_TotalRain,0.0005124564
-Rain Intensity Change,0.00031437015
-Rain Intensity,0.00015579433
-Precipitation Type_60.0,9.503255e-05
+month,0.6115721
+Barometric Pressure,0.047070205
+Humidity_x_Pressure,0.032937568
+Pressure_x_Solar,0.029517967
+Total Rain,0.029483024
+Solar Radiation,0.027213652
+Station Name_Oak Street Weather Station,0.02647072
+Wind Direction,0.025349313
+hour,0.02244253
+Precipitation Type_70.0,0.019959833
+Solar_to_Pressure,0.019308211
+year,0.018652834
+Wind Speed,0.014111557
+WindSpeed_to_MaxWind,0.0130284345
+Heading,0.011171525
+Battery Life,0.010374701
+Humidity,0.0065137343
+day_of_week,0.0061387178
+day_name_Wednesday,0.004118602
+Humidity Change,0.0041147247
+Wind Speed Change,0.0037629572
+Maximum Wind Speed,0.003632854
+day_name_Saturday,0.0029907867
+day_name_Tuesday,0.0029729507
+Interval Rain,0.0018645135
+day_name_Thursday,0.0014484935
+Rain Intensity Change,0.0012781498
+RainRate_to_TotalRain,0.0011546041
+WindSpeed_x_Rain,0.0010378405
+Rain Intensity,0.00020821363
+Precipitation Type_60.0,9.885932e-05
 Precipitation Type_5.0,0.0
 is_weekend,0.0
 day_name_Monday,0.0

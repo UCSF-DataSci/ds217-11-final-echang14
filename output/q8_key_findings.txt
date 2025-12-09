@@ -8,7 +8,7 @@ MODEL PERFORMANCE:
 
 FEATURE IMPORTANCE:
 - Most important feature: Month (importance 0.627)
-- Top 3 features account for 70.06% of total importance
+- Top 3 features account for 69.16% of total importance
 - Temporal Features are highly important
 
 TEMPORAL PATTERNS:

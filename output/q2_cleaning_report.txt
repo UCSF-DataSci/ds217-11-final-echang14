@@ -3,12 +3,14 @@ Data Cleaning Report
 Rows before cleaning: 196431
 
 Missing Data Handled:
+Measurement Timestamp: filled forward with last valid value
+
 - Air Temperature: 75 missing values
-  Method: filled with mean value
+  Method: filled with median value
   Result: All missing values filled
 
 -Barometric Pressure: 146 missing values
-  Method: filled with mean value
+  Method: filled with median value
   Result: All missing values filled
 
 Other missing values: dropped rows with any remaining missing values
