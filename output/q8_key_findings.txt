@@ -17,5 +17,5 @@ TEMPORAL PATTERNS:
 
 DATA QUALITY:
 - Dataset cleaned: 196431 → 110619 rows
-- Missing values handled via mean imputation
+- Missing values handled via median imputation and forward fill
 - Outliers capped using IQR method

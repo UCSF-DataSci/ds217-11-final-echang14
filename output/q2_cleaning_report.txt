@@ -3,7 +3,7 @@ Data Cleaning Report
 Rows before cleaning: 196431
 
 Missing Data Handled:
-Measurement Timestamp: filled forward with last valid value
+- Measurement Timestamp: filled forward with last valid value
 
 - Air Temperature: 75 missing values
   Method: filled with median value
