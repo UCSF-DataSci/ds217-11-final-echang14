@@ -1,11 +1,8 @@
-Air Temp Difference
 Humidity Change
 Wind Speed Change
-Temp_to_Humidity
-WindSpeed_to_MaxWind
+Rain Intensity ChangeWindSpeed_to_MaxWind
 RainRate_to_TotalRain
-Temp_x_Humidity
-WindSpeed_x_Rain
+Solar_to_PressureWindSpeed_x_Rain
 Pressure_x_Solar
-wind_speed_rolling7h
+Humidity_x_Pressurewind_speed_rolling7h
 pressure_rolling7h
