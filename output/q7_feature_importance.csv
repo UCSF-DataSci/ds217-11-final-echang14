@@ -1,37 +1,36 @@
 feature,importance
-Wet Bulb Temperature,0.91497195
-Humidity_x_Pressure,0.06366354
-Humidity,0.011291276
-month,0.002738189
-Heading,0.0016360221
-year,0.00158182
-day_of_week,0.001227364
-Solar Radiation,0.0007216288
-Total Rain,0.00060474477
-day_name_Thursday,0.00029863307
-day_name_Wednesday,0.00017511245
-Barometric Pressure,0.00016731599
-Precipitation Type_60.0,0.00015261518
-Solar_to_Pressure,0.00013908673
-day_name_Tuesday,0.000112923946
-hour,8.238723e-05
-day_name_Saturday,7.309461e-05
-RainRate_to_TotalRain,5.6885176e-05
-Battery Life,3.919977e-05
-Wind Direction,3.9092236e-05
-Maximum Wind Speed,3.6863596e-05
-Pressure_x_Solar,3.3071796e-05
-Wind Speed,3.2619486e-05
-WindSpeed_to_MaxWind,3.1786007e-05
-Wind Speed Change,2.3037346e-05
-Humidity Change,1.6355982e-05
-WindSpeed_x_Rain,1.3180954e-05
-Rain Intensity Change,1.19788965e-05
-Precipitation Type_70.0,1.1872577e-05
-Interval Rain,8.253675e-06
-Precipitation Type_5.0,6.3192956e-06
-Rain Intensity,1.8072905e-06
-Station Name_Oak Street Weather Station,0.0
+month,0.627294
+Barometric Pressure,0.042885203
+Humidity_x_Pressure,0.030438194
+Pressure_x_Solar,0.029153911
+Total Rain,0.0269933
+Station Name_Oak Street Weather Station,0.025387336
+Solar Radiation,0.024846748
+hour,0.024009075
+Wind Direction,0.023608223
+Precipitation Type_70.0,0.020608082
+Solar_to_Pressure,0.018770488
+year,0.017673653
+Wind Speed,0.015246263
+WindSpeed_to_MaxWind,0.013113365
+Heading,0.011464243
+Battery Life,0.011206998
+Humidity,0.0059752353
+day_of_week,0.0051375343
+day_name_Wednesday,0.0045354716
+Maximum Wind Speed,0.0041484646
+Humidity Change,0.0036749404
+Wind Speed Change,0.0033334424
+day_name_Tuesday,0.002978043
+day_name_Saturday,0.0021750026
+day_name_Thursday,0.0018235169
+Interval Rain,0.001495979
+WindSpeed_x_Rain,0.00094559666
+RainRate_to_TotalRain,0.0005124564
+Rain Intensity Change,0.00031437015
+Rain Intensity,0.00015579433
+Precipitation Type_60.0,9.503255e-05
+Precipitation Type_5.0,0.0
 is_weekend,0.0
 day_name_Monday,0.0
 day_name_Sunday,0.0
