@@ -2,12 +2,12 @@ KEY FINDINGS SUMMARY
 ===================
 
 MODEL PERFORMANCE:
-- Best performing model: XGBoost (R² = 0.8514)
-- XGBoost achieves lowest RMSE: 3.75, MAE: 2.86
-- Linear Regression model achieved Test R² = 0.3004, RMSE = 8.14, MAE = 6.59
+- Best performing model: XGBoost (R² = 0.8546)
+- XGBoost achieves lowest RMSE: 3.71, MAE: 2.83
+- Linear Regression model achieved Test R² = 0.3003, RMSE = 8.14, MAE = 6.59
 
 FEATURE IMPORTANCE:
-- Most important feature: Month (importance 0.627)
+- Most important feature: Month (importance 0.612)
 - Top 3 features account for 69.16% of total importance
 - Temporal Features are highly important
 
